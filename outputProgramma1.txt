@@ -1,0 +1,791 @@
+Il testo aTaleOfTwoCities.txt ha 5689 frasi e 161415 token.
+Lunghezza media frasi: 28
+Lunghezza media parole: 3
+Lunghezza vocabolario: 11946
+
+Grandezza vocabolario in 1000 token: 454
+Numero di Hapax in 1000 token: 84
+Grandezza vocabolario in 2000 token: 748
+Numero di Hapax in 2000 token: 136
+Grandezza vocabolario in 3000 token: 975
+Numero di Hapax in 3000 token: 175
+Grandezza vocabolario in 4000 token: 1201
+Numero di Hapax in 4000 token: 220
+Grandezza vocabolario in 5000 token: 1420
+Numero di Hapax in 5000 token: 263
+Grandezza vocabolario in 6000 token: 1604
+Numero di Hapax in 6000 token: 305
+Grandezza vocabolario in 7000 token: 1804
+Numero di Hapax in 7000 token: 345
+Grandezza vocabolario in 8000 token: 1979
+Numero di Hapax in 8000 token: 373
+Grandezza vocabolario in 9000 token: 2110
+Numero di Hapax in 9000 token: 404
+Grandezza vocabolario in 10000 token: 2244
+Numero di Hapax in 10000 token: 423
+Grandezza vocabolario in 11000 token: 2422
+Numero di Hapax in 11000 token: 471
+Grandezza vocabolario in 12000 token: 2636
+Numero di Hapax in 12000 token: 536
+Grandezza vocabolario in 13000 token: 2796
+Numero di Hapax in 13000 token: 580
+Grandezza vocabolario in 14000 token: 2902
+Numero di Hapax in 14000 token: 597
+Grandezza vocabolario in 15000 token: 3035
+Numero di Hapax in 15000 token: 631
+Grandezza vocabolario in 16000 token: 3142
+Numero di Hapax in 16000 token: 654
+Grandezza vocabolario in 17000 token: 3232
+Numero di Hapax in 17000 token: 683
+Grandezza vocabolario in 18000 token: 3301
+Numero di Hapax in 18000 token: 694
+Grandezza vocabolario in 19000 token: 3375
+Numero di Hapax in 19000 token: 708
+Grandezza vocabolario in 20000 token: 3456
+Numero di Hapax in 20000 token: 728
+Grandezza vocabolario in 21000 token: 3609
+Numero di Hapax in 21000 token: 790
+Grandezza vocabolario in 22000 token: 3770
+Numero di Hapax in 22000 token: 865
+Grandezza vocabolario in 23000 token: 3893
+Numero di Hapax in 23000 token: 913
+Grandezza vocabolario in 24000 token: 4006
+Numero di Hapax in 24000 token: 951
+Grandezza vocabolario in 25000 token: 4117
+Numero di Hapax in 25000 token: 991
+Grandezza vocabolario in 26000 token: 4230
+Numero di Hapax in 26000 token: 1030
+Grandezza vocabolario in 27000 token: 4345
+Numero di Hapax in 27000 token: 1080
+Grandezza vocabolario in 28000 token: 4455
+Numero di Hapax in 28000 token: 1127
+Grandezza vocabolario in 29000 token: 4534
+Numero di Hapax in 29000 token: 1153
+Grandezza vocabolario in 30000 token: 4607
+Numero di Hapax in 30000 token: 1181
+Grandezza vocabolario in 31000 token: 4705
+Numero di Hapax in 31000 token: 1218
+Grandezza vocabolario in 32000 token: 4778
+Numero di Hapax in 32000 token: 1254
+Grandezza vocabolario in 33000 token: 4864
+Numero di Hapax in 33000 token: 1282
+Grandezza vocabolario in 34000 token: 4959
+Numero di Hapax in 34000 token: 1316
+Grandezza vocabolario in 35000 token: 5067
+Numero di Hapax in 35000 token: 1360
+Grandezza vocabolario in 36000 token: 5177
+Numero di Hapax in 36000 token: 1421
+Grandezza vocabolario in 37000 token: 5263
+Numero di Hapax in 37000 token: 1456
+Grandezza vocabolario in 38000 token: 5400
+Numero di Hapax in 38000 token: 1511
+Grandezza vocabolario in 39000 token: 5483
+Numero di Hapax in 39000 token: 1552
+Grandezza vocabolario in 40000 token: 5559
+Numero di Hapax in 40000 token: 1575
+Grandezza vocabolario in 41000 token: 5648
+Numero di Hapax in 41000 token: 1621
+Grandezza vocabolario in 42000 token: 5712
+Numero di Hapax in 42000 token: 1645
+Grandezza vocabolario in 43000 token: 5803
+Numero di Hapax in 43000 token: 1682
+Grandezza vocabolario in 44000 token: 5946
+Numero di Hapax in 44000 token: 1764
+Grandezza vocabolario in 45000 token: 6052
+Numero di Hapax in 45000 token: 1827
+Grandezza vocabolario in 46000 token: 6127
+Numero di Hapax in 46000 token: 1855
+Grandezza vocabolario in 47000 token: 6220
+Numero di Hapax in 47000 token: 1897
+Grandezza vocabolario in 48000 token: 6314
+Numero di Hapax in 48000 token: 1946
+Grandezza vocabolario in 49000 token: 6389
+Numero di Hapax in 49000 token: 1976
+Grandezza vocabolario in 50000 token: 6453
+Numero di Hapax in 50000 token: 2006
+Grandezza vocabolario in 51000 token: 6537
+Numero di Hapax in 51000 token: 2045
+Grandezza vocabolario in 52000 token: 6617
+Numero di Hapax in 52000 token: 2090
+Grandezza vocabolario in 53000 token: 6684
+Numero di Hapax in 53000 token: 2133
+Grandezza vocabolario in 54000 token: 6764
+Numero di Hapax in 54000 token: 2189
+Grandezza vocabolario in 55000 token: 6805
+Numero di Hapax in 55000 token: 2204
+Grandezza vocabolario in 56000 token: 6850
+Numero di Hapax in 56000 token: 2221
+Grandezza vocabolario in 57000 token: 6897
+Numero di Hapax in 57000 token: 2242
+Grandezza vocabolario in 58000 token: 6957
+Numero di Hapax in 58000 token: 2277
+Grandezza vocabolario in 59000 token: 7022
+Numero di Hapax in 59000 token: 2316
+Grandezza vocabolario in 60000 token: 7082
+Numero di Hapax in 60000 token: 2352
+Grandezza vocabolario in 61000 token: 7132
+Numero di Hapax in 61000 token: 2386
+Grandezza vocabolario in 62000 token: 7191
+Numero di Hapax in 62000 token: 2423
+Grandezza vocabolario in 63000 token: 7236
+Numero di Hapax in 63000 token: 2451
+Grandezza vocabolario in 64000 token: 7284
+Numero di Hapax in 64000 token: 2473
+Grandezza vocabolario in 65000 token: 7374
+Numero di Hapax in 65000 token: 2521
+Grandezza vocabolario in 66000 token: 7479
+Numero di Hapax in 66000 token: 2591
+Grandezza vocabolario in 67000 token: 7559
+Numero di Hapax in 67000 token: 2639
+Grandezza vocabolario in 68000 token: 7615
+Numero di Hapax in 68000 token: 2669
+Grandezza vocabolario in 69000 token: 7687
+Numero di Hapax in 69000 token: 2714
+Grandezza vocabolario in 70000 token: 7740
+Numero di Hapax in 70000 token: 2740
+Grandezza vocabolario in 71000 token: 7793
+Numero di Hapax in 71000 token: 2765
+Grandezza vocabolario in 72000 token: 7847
+Numero di Hapax in 72000 token: 2797
+Grandezza vocabolario in 73000 token: 7910
+Numero di Hapax in 73000 token: 2827
+Grandezza vocabolario in 74000 token: 7983
+Numero di Hapax in 74000 token: 2868
+Grandezza vocabolario in 75000 token: 8046
+Numero di Hapax in 75000 token: 2905
+Grandezza vocabolario in 76000 token: 8098
+Numero di Hapax in 76000 token: 2943
+Grandezza vocabolario in 77000 token: 8149
+Numero di Hapax in 77000 token: 2973
+Grandezza vocabolario in 78000 token: 8186
+Numero di Hapax in 78000 token: 2996
+Grandezza vocabolario in 79000 token: 8226
+Numero di Hapax in 79000 token: 3022
+Grandezza vocabolario in 80000 token: 8261
+Numero di Hapax in 80000 token: 3037
+Grandezza vocabolario in 81000 token: 8312
+Numero di Hapax in 81000 token: 3064
+Grandezza vocabolario in 82000 token: 8349
+Numero di Hapax in 82000 token: 3090
+Grandezza vocabolario in 83000 token: 8375
+Numero di Hapax in 83000 token: 3100
+Grandezza vocabolario in 84000 token: 8415
+Numero di Hapax in 84000 token: 3120
+Grandezza vocabolario in 85000 token: 8467
+Numero di Hapax in 85000 token: 3156
+Grandezza vocabolario in 86000 token: 8513
+Numero di Hapax in 86000 token: 3182
+Grandezza vocabolario in 87000 token: 8551
+Numero di Hapax in 87000 token: 3205
+Grandezza vocabolario in 88000 token: 8588
+Numero di Hapax in 88000 token: 3232
+Grandezza vocabolario in 89000 token: 8654
+Numero di Hapax in 89000 token: 3275
+Grandezza vocabolario in 90000 token: 8703
+Numero di Hapax in 90000 token: 3310
+Grandezza vocabolario in 91000 token: 8770
+Numero di Hapax in 91000 token: 3347
+Grandezza vocabolario in 92000 token: 8847
+Numero di Hapax in 92000 token: 3394
+Grandezza vocabolario in 93000 token: 8910
+Numero di Hapax in 93000 token: 3432
+Grandezza vocabolario in 94000 token: 8982
+Numero di Hapax in 94000 token: 3480
+Grandezza vocabolario in 95000 token: 9041
+Numero di Hapax in 95000 token: 3517
+Grandezza vocabolario in 96000 token: 9116
+Numero di Hapax in 96000 token: 3565
+Grandezza vocabolario in 97000 token: 9172
+Numero di Hapax in 97000 token: 3609
+Grandezza vocabolario in 98000 token: 9227
+Numero di Hapax in 98000 token: 3649
+Grandezza vocabolario in 99000 token: 9310
+Numero di Hapax in 99000 token: 3720
+Grandezza vocabolario in 100000 token: 9378
+Numero di Hapax in 100000 token: 3768
+Grandezza vocabolario in 101000 token: 9441
+Numero di Hapax in 101000 token: 3806
+Grandezza vocabolario in 102000 token: 9507
+Numero di Hapax in 102000 token: 3861
+Grandezza vocabolario in 103000 token: 9555
+Numero di Hapax in 103000 token: 3899
+Grandezza vocabolario in 104000 token: 9595
+Numero di Hapax in 104000 token: 3927
+Grandezza vocabolario in 105000 token: 9660
+Numero di Hapax in 105000 token: 3964
+Grandezza vocabolario in 106000 token: 9709
+Numero di Hapax in 106000 token: 3992
+Grandezza vocabolario in 107000 token: 9756
+Numero di Hapax in 107000 token: 4021
+Grandezza vocabolario in 108000 token: 9811
+Numero di Hapax in 108000 token: 4060
+Grandezza vocabolario in 109000 token: 9855
+Numero di Hapax in 109000 token: 4087
+Grandezza vocabolario in 110000 token: 9915
+Numero di Hapax in 110000 token: 4135
+Grandezza vocabolario in 111000 token: 9943
+Numero di Hapax in 111000 token: 4154
+Grandezza vocabolario in 112000 token: 9999
+Numero di Hapax in 112000 token: 4193
+Grandezza vocabolario in 113000 token: 10030
+Numero di Hapax in 113000 token: 4217
+Grandezza vocabolario in 114000 token: 10062
+Numero di Hapax in 114000 token: 4242
+Grandezza vocabolario in 115000 token: 10108
+Numero di Hapax in 115000 token: 4272
+Grandezza vocabolario in 116000 token: 10165
+Numero di Hapax in 116000 token: 4309
+Grandezza vocabolario in 117000 token: 10219
+Numero di Hapax in 117000 token: 4353
+Grandezza vocabolario in 118000 token: 10267
+Numero di Hapax in 118000 token: 4382
+Grandezza vocabolario in 119000 token: 10313
+Numero di Hapax in 119000 token: 4412
+Grandezza vocabolario in 120000 token: 10365
+Numero di Hapax in 120000 token: 4449
+Grandezza vocabolario in 121000 token: 10398
+Numero di Hapax in 121000 token: 4471
+Grandezza vocabolario in 122000 token: 10441
+Numero di Hapax in 122000 token: 4503
+Grandezza vocabolario in 123000 token: 10480
+Numero di Hapax in 123000 token: 4532
+Grandezza vocabolario in 124000 token: 10527
+Numero di Hapax in 124000 token: 4570
+Grandezza vocabolario in 125000 token: 10584
+Numero di Hapax in 125000 token: 4612
+Grandezza vocabolario in 126000 token: 10620
+Numero di Hapax in 126000 token: 4646
+Grandezza vocabolario in 127000 token: 10658
+Numero di Hapax in 127000 token: 4677
+Grandezza vocabolario in 128000 token: 10698
+Numero di Hapax in 128000 token: 4706
+Grandezza vocabolario in 129000 token: 10753
+Numero di Hapax in 129000 token: 4756
+Grandezza vocabolario in 130000 token: 10799
+Numero di Hapax in 130000 token: 4796
+Grandezza vocabolario in 131000 token: 10857
+Numero di Hapax in 131000 token: 4843
+Grandezza vocabolario in 132000 token: 10886
+Numero di Hapax in 132000 token: 4867
+Grandezza vocabolario in 133000 token: 10930
+Numero di Hapax in 133000 token: 4902
+Grandezza vocabolario in 134000 token: 10979
+Numero di Hapax in 134000 token: 4941
+Grandezza vocabolario in 135000 token: 11037
+Numero di Hapax in 135000 token: 4989
+Grandezza vocabolario in 136000 token: 11073
+Numero di Hapax in 136000 token: 5019
+Grandezza vocabolario in 137000 token: 11120
+Numero di Hapax in 137000 token: 5052
+Grandezza vocabolario in 138000 token: 11170
+Numero di Hapax in 138000 token: 5093
+Grandezza vocabolario in 139000 token: 11205
+Numero di Hapax in 139000 token: 5122
+Grandezza vocabolario in 140000 token: 11235
+Numero di Hapax in 140000 token: 5147
+Grandezza vocabolario in 141000 token: 11260
+Numero di Hapax in 141000 token: 5166
+Grandezza vocabolario in 142000 token: 11292
+Numero di Hapax in 142000 token: 5193
+Grandezza vocabolario in 143000 token: 11330
+Numero di Hapax in 143000 token: 5228
+Grandezza vocabolario in 144000 token: 11351
+Numero di Hapax in 144000 token: 5249
+Grandezza vocabolario in 145000 token: 11372
+Numero di Hapax in 145000 token: 5265
+Grandezza vocabolario in 146000 token: 11394
+Numero di Hapax in 146000 token: 5277
+Grandezza vocabolario in 147000 token: 11414
+Numero di Hapax in 147000 token: 5293
+Grandezza vocabolario in 148000 token: 11443
+Numero di Hapax in 148000 token: 5318
+Grandezza vocabolario in 149000 token: 11486
+Numero di Hapax in 149000 token: 5357
+Grandezza vocabolario in 150000 token: 11515
+Numero di Hapax in 150000 token: 5383
+Grandezza vocabolario in 151000 token: 11547
+Numero di Hapax in 151000 token: 5412
+Grandezza vocabolario in 152000 token: 11571
+Numero di Hapax in 152000 token: 5434
+Grandezza vocabolario in 153000 token: 11623
+Numero di Hapax in 153000 token: 5469
+Grandezza vocabolario in 154000 token: 11669
+Numero di Hapax in 154000 token: 5512
+Grandezza vocabolario in 155000 token: 11702
+Numero di Hapax in 155000 token: 5544
+Grandezza vocabolario in 156000 token: 11748
+Numero di Hapax in 156000 token: 5585
+Grandezza vocabolario in 157000 token: 11778
+Numero di Hapax in 157000 token: 5614
+Grandezza vocabolario in 158000 token: 11804
+Numero di Hapax in 158000 token: 5640
+Grandezza vocabolario in 159000 token: 11845
+Numero di Hapax in 159000 token: 5679
+Grandezza vocabolario in 160000 token: 11894
+Numero di Hapax in 160000 token: 5724
+Grandezza vocabolario in 161000 token: 11933
+Numero di Hapax in 161000 token: 5760
+Grandezza vocabolario in 162000 token: 11946
+Numero di Hapax in 162000 token: 5773
+
+Rapporto sostantivi-verbi: 1.41305818674
+
+10 PoS più frequenti:
+PoS tag: NN 	frequenza: 21119
+PoS tag: IN 	frequenza: 18126
+PoS tag: DT 	frequenza: 14321
+PoS tag: , 	frequenza: 13126
+PoS tag: PRP 	frequenza: 10361
+PoS tag: JJ 	frequenza: 9195
+PoS tag: VBD 	frequenza: 8873
+PoS tag: NNP 	frequenza: 7218
+PoS tag: RB 	frequenza: 7106
+PoS tag: . 	frequenza: 6709
+
+10 bigrammi PoS con probabilità condizionata massima:
+bigramma: " . UH " 	probabilità condizionata: 1.0
+bigramma: " NN `` " 	probabilità condizionata: 0.9
+bigramma: " DT JJS " 	probabilità condizionata: 0.686956521739
+bigramma: " DT RBS " 	probabilità condizionata: 0.666666666667
+bigramma: " PRP VBP " 	probabilità condizionata: 0.64606741573
+bigramma: " . '' " 	probabilità condizionata: 0.586538461538
+bigramma: " , WP$ " 	probabilità condizionata: 0.533333333333
+bigramma: " VBD PDT " 	probabilità condizionata: 0.531914893617
+bigramma: " PRP MD " 	probabilità condizionata: 0.523140011716
+bigramma: " , CC " 	probabilità condizionata: 0.503125527961
+
+10 bigrammi PoS con forza associativa massima:
+bigramma: " DT NN " 	forza associativa: 14997.172972
+bigramma: " IN DT " 	forza associativa: 12976.8139305
+bigramma: " , CC " 	forza associativa: 7829.97988831
+bigramma: " TO VB " 	forza associativa: 7656.99111102
+bigramma: " PRP VBD " 	forza associativa: 6786.98386924
+bigramma: " PRP$ NN " 	forza associativa: 6278.35073922
+bigramma: " NN , " 	forza associativa: 5977.80098912
+bigramma: " MD VB " 	forza associativa: 5542.60514739
+bigramma: " NN IN " 	forza associativa: 5415.83937009
+bigramma: " PRP VBP " 	forza associativa: 5363.40113366
+
+Il testo dracula.txt ha 8445 frasi e 189669 token.
+Lunghezza media frasi: 22
+Lunghezza media parole: 3
+Lunghezza vocabolario: 10631
+
+Grandezza vocabolario in 1000 token: 419
+Numero di Hapax in 1000 token: 55
+Grandezza vocabolario in 2000 token: 681
+Numero di Hapax in 2000 token: 93
+Grandezza vocabolario in 3000 token: 917
+Numero di Hapax in 3000 token: 146
+Grandezza vocabolario in 4000 token: 1143
+Numero di Hapax in 4000 token: 204
+Grandezza vocabolario in 5000 token: 1308
+Numero di Hapax in 5000 token: 229
+Grandezza vocabolario in 6000 token: 1455
+Numero di Hapax in 6000 token: 257
+Grandezza vocabolario in 7000 token: 1609
+Numero di Hapax in 7000 token: 291
+Grandezza vocabolario in 8000 token: 1766
+Numero di Hapax in 8000 token: 318
+Grandezza vocabolario in 9000 token: 1911
+Numero di Hapax in 9000 token: 352
+Grandezza vocabolario in 10000 token: 2029
+Numero di Hapax in 10000 token: 384
+Grandezza vocabolario in 11000 token: 2128
+Numero di Hapax in 11000 token: 406
+Grandezza vocabolario in 12000 token: 2252
+Numero di Hapax in 12000 token: 443
+Grandezza vocabolario in 13000 token: 2336
+Numero di Hapax in 13000 token: 468
+Grandezza vocabolario in 14000 token: 2436
+Numero di Hapax in 14000 token: 492
+Grandezza vocabolario in 15000 token: 2577
+Numero di Hapax in 15000 token: 548
+Grandezza vocabolario in 16000 token: 2656
+Numero di Hapax in 16000 token: 573
+Grandezza vocabolario in 17000 token: 2749
+Numero di Hapax in 17000 token: 598
+Grandezza vocabolario in 18000 token: 2860
+Numero di Hapax in 18000 token: 630
+Grandezza vocabolario in 19000 token: 2970
+Numero di Hapax in 19000 token: 669
+Grandezza vocabolario in 20000 token: 3066
+Numero di Hapax in 20000 token: 696
+Grandezza vocabolario in 21000 token: 3140
+Numero di Hapax in 21000 token: 722
+Grandezza vocabolario in 22000 token: 3242
+Numero di Hapax in 22000 token: 753
+Grandezza vocabolario in 23000 token: 3330
+Numero di Hapax in 23000 token: 779
+Grandezza vocabolario in 24000 token: 3405
+Numero di Hapax in 24000 token: 802
+Grandezza vocabolario in 25000 token: 3466
+Numero di Hapax in 25000 token: 825
+Grandezza vocabolario in 26000 token: 3545
+Numero di Hapax in 26000 token: 853
+Grandezza vocabolario in 27000 token: 3654
+Numero di Hapax in 27000 token: 889
+Grandezza vocabolario in 28000 token: 3736
+Numero di Hapax in 28000 token: 924
+Grandezza vocabolario in 29000 token: 3800
+Numero di Hapax in 29000 token: 942
+Grandezza vocabolario in 30000 token: 3861
+Numero di Hapax in 30000 token: 961
+Grandezza vocabolario in 31000 token: 3981
+Numero di Hapax in 31000 token: 1020
+Grandezza vocabolario in 32000 token: 4094
+Numero di Hapax in 32000 token: 1070
+Grandezza vocabolario in 33000 token: 4234
+Numero di Hapax in 33000 token: 1164
+Grandezza vocabolario in 34000 token: 4335
+Numero di Hapax in 34000 token: 1214
+Grandezza vocabolario in 35000 token: 4420
+Numero di Hapax in 35000 token: 1247
+Grandezza vocabolario in 36000 token: 4504
+Numero di Hapax in 36000 token: 1274
+Grandezza vocabolario in 37000 token: 4575
+Numero di Hapax in 37000 token: 1301
+Grandezza vocabolario in 38000 token: 4704
+Numero di Hapax in 38000 token: 1367
+Grandezza vocabolario in 39000 token: 4812
+Numero di Hapax in 39000 token: 1413
+Grandezza vocabolario in 40000 token: 4926
+Numero di Hapax in 40000 token: 1468
+Grandezza vocabolario in 41000 token: 5053
+Numero di Hapax in 41000 token: 1530
+Grandezza vocabolario in 42000 token: 5138
+Numero di Hapax in 42000 token: 1570
+Grandezza vocabolario in 43000 token: 5193
+Numero di Hapax in 43000 token: 1592
+Grandezza vocabolario in 44000 token: 5244
+Numero di Hapax in 44000 token: 1621
+Grandezza vocabolario in 45000 token: 5305
+Numero di Hapax in 45000 token: 1645
+Grandezza vocabolario in 46000 token: 5354
+Numero di Hapax in 46000 token: 1660
+Grandezza vocabolario in 47000 token: 5407
+Numero di Hapax in 47000 token: 1685
+Grandezza vocabolario in 48000 token: 5450
+Numero di Hapax in 48000 token: 1702
+Grandezza vocabolario in 49000 token: 5555
+Numero di Hapax in 49000 token: 1754
+Grandezza vocabolario in 50000 token: 5609
+Numero di Hapax in 50000 token: 1775
+Grandezza vocabolario in 51000 token: 5685
+Numero di Hapax in 51000 token: 1823
+Grandezza vocabolario in 52000 token: 5736
+Numero di Hapax in 52000 token: 1842
+Grandezza vocabolario in 53000 token: 5776
+Numero di Hapax in 53000 token: 1860
+Grandezza vocabolario in 54000 token: 5827
+Numero di Hapax in 54000 token: 1891
+Grandezza vocabolario in 55000 token: 5868
+Numero di Hapax in 55000 token: 1905
+Grandezza vocabolario in 56000 token: 5936
+Numero di Hapax in 56000 token: 1936
+Grandezza vocabolario in 57000 token: 5983
+Numero di Hapax in 57000 token: 1956
+Grandezza vocabolario in 58000 token: 6019
+Numero di Hapax in 58000 token: 1971
+Grandezza vocabolario in 59000 token: 6067
+Numero di Hapax in 59000 token: 1997
+Grandezza vocabolario in 60000 token: 6128
+Numero di Hapax in 60000 token: 2021
+Grandezza vocabolario in 61000 token: 6168
+Numero di Hapax in 61000 token: 2035
+Grandezza vocabolario in 62000 token: 6207
+Numero di Hapax in 62000 token: 2050
+Grandezza vocabolario in 63000 token: 6240
+Numero di Hapax in 63000 token: 2070
+Grandezza vocabolario in 64000 token: 6291
+Numero di Hapax in 64000 token: 2097
+Grandezza vocabolario in 65000 token: 6338
+Numero di Hapax in 65000 token: 2124
+Grandezza vocabolario in 66000 token: 6380
+Numero di Hapax in 66000 token: 2152
+Grandezza vocabolario in 67000 token: 6413
+Numero di Hapax in 67000 token: 2164
+Grandezza vocabolario in 68000 token: 6532
+Numero di Hapax in 68000 token: 2235
+Grandezza vocabolario in 69000 token: 6618
+Numero di Hapax in 69000 token: 2298
+Grandezza vocabolario in 70000 token: 6702
+Numero di Hapax in 70000 token: 2354
+Grandezza vocabolario in 71000 token: 6734
+Numero di Hapax in 71000 token: 2369
+Grandezza vocabolario in 72000 token: 6788
+Numero di Hapax in 72000 token: 2391
+Grandezza vocabolario in 73000 token: 6822
+Numero di Hapax in 73000 token: 2404
+Grandezza vocabolario in 74000 token: 6853
+Numero di Hapax in 74000 token: 2420
+Grandezza vocabolario in 75000 token: 6881
+Numero di Hapax in 75000 token: 2435
+Grandezza vocabolario in 76000 token: 6909
+Numero di Hapax in 76000 token: 2450
+Grandezza vocabolario in 77000 token: 6958
+Numero di Hapax in 77000 token: 2485
+Grandezza vocabolario in 78000 token: 7034
+Numero di Hapax in 78000 token: 2526
+Grandezza vocabolario in 79000 token: 7058
+Numero di Hapax in 79000 token: 2543
+Grandezza vocabolario in 80000 token: 7092
+Numero di Hapax in 80000 token: 2564
+Grandezza vocabolario in 81000 token: 7130
+Numero di Hapax in 81000 token: 2587
+Grandezza vocabolario in 82000 token: 7156
+Numero di Hapax in 82000 token: 2598
+Grandezza vocabolario in 83000 token: 7224
+Numero di Hapax in 83000 token: 2644
+Grandezza vocabolario in 84000 token: 7253
+Numero di Hapax in 84000 token: 2659
+Grandezza vocabolario in 85000 token: 7279
+Numero di Hapax in 85000 token: 2676
+Grandezza vocabolario in 86000 token: 7307
+Numero di Hapax in 86000 token: 2690
+Grandezza vocabolario in 87000 token: 7347
+Numero di Hapax in 87000 token: 2712
+Grandezza vocabolario in 88000 token: 7414
+Numero di Hapax in 88000 token: 2754
+Grandezza vocabolario in 89000 token: 7452
+Numero di Hapax in 89000 token: 2781
+Grandezza vocabolario in 90000 token: 7487
+Numero di Hapax in 90000 token: 2802
+Grandezza vocabolario in 91000 token: 7513
+Numero di Hapax in 91000 token: 2816
+Grandezza vocabolario in 92000 token: 7530
+Numero di Hapax in 92000 token: 2824
+Grandezza vocabolario in 93000 token: 7555
+Numero di Hapax in 93000 token: 2839
+Grandezza vocabolario in 94000 token: 7578
+Numero di Hapax in 94000 token: 2856
+Grandezza vocabolario in 95000 token: 7627
+Numero di Hapax in 95000 token: 2888
+Grandezza vocabolario in 96000 token: 7680
+Numero di Hapax in 96000 token: 2920
+Grandezza vocabolario in 97000 token: 7717
+Numero di Hapax in 97000 token: 2944
+Grandezza vocabolario in 98000 token: 7787
+Numero di Hapax in 98000 token: 2988
+Grandezza vocabolario in 99000 token: 7825
+Numero di Hapax in 99000 token: 3013
+Grandezza vocabolario in 100000 token: 7853
+Numero di Hapax in 100000 token: 3032
+Grandezza vocabolario in 101000 token: 7869
+Numero di Hapax in 101000 token: 3038
+Grandezza vocabolario in 102000 token: 7904
+Numero di Hapax in 102000 token: 3055
+Grandezza vocabolario in 103000 token: 7925
+Numero di Hapax in 103000 token: 3066
+Grandezza vocabolario in 104000 token: 7965
+Numero di Hapax in 104000 token: 3092
+Grandezza vocabolario in 105000 token: 8018
+Numero di Hapax in 105000 token: 3126
+Grandezza vocabolario in 106000 token: 8050
+Numero di Hapax in 106000 token: 3148
+Grandezza vocabolario in 107000 token: 8095
+Numero di Hapax in 107000 token: 3176
+Grandezza vocabolario in 108000 token: 8131
+Numero di Hapax in 108000 token: 3203
+Grandezza vocabolario in 109000 token: 8164
+Numero di Hapax in 109000 token: 3228
+Grandezza vocabolario in 110000 token: 8186
+Numero di Hapax in 110000 token: 3246
+Grandezza vocabolario in 111000 token: 8197
+Numero di Hapax in 111000 token: 3253
+Grandezza vocabolario in 112000 token: 8235
+Numero di Hapax in 112000 token: 3278
+Grandezza vocabolario in 113000 token: 8296
+Numero di Hapax in 113000 token: 3323
+Grandezza vocabolario in 114000 token: 8317
+Numero di Hapax in 114000 token: 3333
+Grandezza vocabolario in 115000 token: 8337
+Numero di Hapax in 115000 token: 3345
+Grandezza vocabolario in 116000 token: 8386
+Numero di Hapax in 116000 token: 3376
+Grandezza vocabolario in 117000 token: 8405
+Numero di Hapax in 117000 token: 3392
+Grandezza vocabolario in 118000 token: 8438
+Numero di Hapax in 118000 token: 3410
+Grandezza vocabolario in 119000 token: 8476
+Numero di Hapax in 119000 token: 3440
+Grandezza vocabolario in 120000 token: 8525
+Numero di Hapax in 120000 token: 3478
+Grandezza vocabolario in 121000 token: 8550
+Numero di Hapax in 121000 token: 3495
+Grandezza vocabolario in 122000 token: 8620
+Numero di Hapax in 122000 token: 3551
+Grandezza vocabolario in 123000 token: 8655
+Numero di Hapax in 123000 token: 3574
+Grandezza vocabolario in 124000 token: 8686
+Numero di Hapax in 124000 token: 3594
+Grandezza vocabolario in 125000 token: 8744
+Numero di Hapax in 125000 token: 3642
+Grandezza vocabolario in 126000 token: 8788
+Numero di Hapax in 126000 token: 3677
+Grandezza vocabolario in 127000 token: 8815
+Numero di Hapax in 127000 token: 3696
+Grandezza vocabolario in 128000 token: 8839
+Numero di Hapax in 128000 token: 3713
+Grandezza vocabolario in 129000 token: 8866
+Numero di Hapax in 129000 token: 3730
+Grandezza vocabolario in 130000 token: 8917
+Numero di Hapax in 130000 token: 3768
+Grandezza vocabolario in 131000 token: 8964
+Numero di Hapax in 131000 token: 3800
+Grandezza vocabolario in 132000 token: 9027
+Numero di Hapax in 132000 token: 3847
+Grandezza vocabolario in 133000 token: 9078
+Numero di Hapax in 133000 token: 3886
+Grandezza vocabolario in 134000 token: 9125
+Numero di Hapax in 134000 token: 3923
+Grandezza vocabolario in 135000 token: 9154
+Numero di Hapax in 135000 token: 3948
+Grandezza vocabolario in 136000 token: 9197
+Numero di Hapax in 136000 token: 3986
+Grandezza vocabolario in 137000 token: 9241
+Numero di Hapax in 137000 token: 4021
+Grandezza vocabolario in 138000 token: 9267
+Numero di Hapax in 138000 token: 4042
+Grandezza vocabolario in 139000 token: 9292
+Numero di Hapax in 139000 token: 4061
+Grandezza vocabolario in 140000 token: 9302
+Numero di Hapax in 140000 token: 4070
+Grandezza vocabolario in 141000 token: 9332
+Numero di Hapax in 141000 token: 4092
+Grandezza vocabolario in 142000 token: 9354
+Numero di Hapax in 142000 token: 4110
+Grandezza vocabolario in 143000 token: 9367
+Numero di Hapax in 143000 token: 4120
+Grandezza vocabolario in 144000 token: 9401
+Numero di Hapax in 144000 token: 4152
+Grandezza vocabolario in 145000 token: 9413
+Numero di Hapax in 145000 token: 4162
+Grandezza vocabolario in 146000 token: 9438
+Numero di Hapax in 146000 token: 4182
+Grandezza vocabolario in 147000 token: 9466
+Numero di Hapax in 147000 token: 4202
+Grandezza vocabolario in 148000 token: 9481
+Numero di Hapax in 148000 token: 4214
+Grandezza vocabolario in 149000 token: 9507
+Numero di Hapax in 149000 token: 4232
+Grandezza vocabolario in 150000 token: 9543
+Numero di Hapax in 150000 token: 4258
+Grandezza vocabolario in 151000 token: 9582
+Numero di Hapax in 151000 token: 4292
+Grandezza vocabolario in 152000 token: 9606
+Numero di Hapax in 152000 token: 4311
+Grandezza vocabolario in 153000 token: 9641
+Numero di Hapax in 153000 token: 4339
+Grandezza vocabolario in 154000 token: 9673
+Numero di Hapax in 154000 token: 4368
+Grandezza vocabolario in 155000 token: 9696
+Numero di Hapax in 155000 token: 4385
+Grandezza vocabolario in 156000 token: 9716
+Numero di Hapax in 156000 token: 4401
+Grandezza vocabolario in 157000 token: 9742
+Numero di Hapax in 157000 token: 4423
+Grandezza vocabolario in 158000 token: 9768
+Numero di Hapax in 158000 token: 4443
+Grandezza vocabolario in 159000 token: 9795
+Numero di Hapax in 159000 token: 4464
+Grandezza vocabolario in 160000 token: 9827
+Numero di Hapax in 160000 token: 4492
+Grandezza vocabolario in 161000 token: 9855
+Numero di Hapax in 161000 token: 4513
+Grandezza vocabolario in 162000 token: 9878
+Numero di Hapax in 162000 token: 4532
+Grandezza vocabolario in 163000 token: 9903
+Numero di Hapax in 163000 token: 4551
+Grandezza vocabolario in 164000 token: 9916
+Numero di Hapax in 164000 token: 4564
+Grandezza vocabolario in 165000 token: 9936
+Numero di Hapax in 165000 token: 4581
+Grandezza vocabolario in 166000 token: 9950
+Numero di Hapax in 166000 token: 4593
+Grandezza vocabolario in 167000 token: 9984
+Numero di Hapax in 167000 token: 4622
+Grandezza vocabolario in 168000 token: 10008
+Numero di Hapax in 168000 token: 4638
+Grandezza vocabolario in 169000 token: 10035
+Numero di Hapax in 169000 token: 4661
+Grandezza vocabolario in 170000 token: 10052
+Numero di Hapax in 170000 token: 4674
+Grandezza vocabolario in 171000 token: 10094
+Numero di Hapax in 171000 token: 4707
+Grandezza vocabolario in 172000 token: 10127
+Numero di Hapax in 172000 token: 4738
+Grandezza vocabolario in 173000 token: 10145
+Numero di Hapax in 173000 token: 4752
+Grandezza vocabolario in 174000 token: 10176
+Numero di Hapax in 174000 token: 4777
+Grandezza vocabolario in 175000 token: 10239
+Numero di Hapax in 175000 token: 4832
+Grandezza vocabolario in 176000 token: 10274
+Numero di Hapax in 176000 token: 4860
+Grandezza vocabolario in 177000 token: 10305
+Numero di Hapax in 177000 token: 4886
+Grandezza vocabolario in 178000 token: 10332
+Numero di Hapax in 178000 token: 4907
+Grandezza vocabolario in 179000 token: 10364
+Numero di Hapax in 179000 token: 4935
+Grandezza vocabolario in 180000 token: 10391
+Numero di Hapax in 180000 token: 4953
+Grandezza vocabolario in 181000 token: 10420
+Numero di Hapax in 181000 token: 4978
+Grandezza vocabolario in 182000 token: 10435
+Numero di Hapax in 182000 token: 4992
+Grandezza vocabolario in 183000 token: 10451
+Numero di Hapax in 183000 token: 5007
+Grandezza vocabolario in 184000 token: 10471
+Numero di Hapax in 184000 token: 5021
+Grandezza vocabolario in 185000 token: 10493
+Numero di Hapax in 185000 token: 5042
+Grandezza vocabolario in 186000 token: 10519
+Numero di Hapax in 186000 token: 5067
+Grandezza vocabolario in 187000 token: 10549
+Numero di Hapax in 187000 token: 5093
+Grandezza vocabolario in 188000 token: 10587
+Numero di Hapax in 188000 token: 5128
+Grandezza vocabolario in 189000 token: 10616
+Numero di Hapax in 189000 token: 5156
+Grandezza vocabolario in 190000 token: 10631
+Numero di Hapax in 190000 token: 5171
+
+Rapporto sostantivi-verbi: 1.07905567811
+
+10 PoS più frequenti:
+PoS tag: NN 	frequenza: 21321
+PoS tag: IN 	frequenza: 20120
+PoS tag: PRP 	frequenza: 17633
+PoS tag: DT 	frequenza: 14899
+PoS tag: , 	frequenza: 11231
+PoS tag: RB 	frequenza: 10259
+PoS tag: VBD 	frequenza: 10103
+PoS tag: JJ 	frequenza: 8918
+PoS tag: . 	frequenza: 8401
+PoS tag: CC 	frequenza: 7470
+
+10 bigrammi PoS con probabilità condizionata massima:
+bigramma: " . LS " 	probabilità condizionata: 1.0
+bigramma: " , FW " 	probabilità condizionata: 1.0
+bigramma: " DT NNPS " 	probabilità condizionata: 0.789473684211
+bigramma: " -NONE- -NONE- " 	probabilità condizionata: 0.769115442279
+bigramma: " . UH " 	probabilità condizionata: 0.739726027397
+bigramma: " PRP VBP " 	probabilità condizionata: 0.729373700023
+bigramma: " PRP MD " 	probabilità condizionata: 0.680826302008
+bigramma: " NNP POS " 	probabilità condizionata: 0.638198757764
+bigramma: " , WP$ " 	probabilità condizionata: 0.566666666667
+bigramma: " PRP VBD " 	probabilità condizionata: 0.526279322973
+
+10 bigrammi PoS con forza associativa massima:
+bigramma: " DT NN " 	forza associativa: 16819.2074868
+bigramma: " PRP VBD " 	forza associativa: 13298.0417554
+bigramma: " IN DT " 	forza associativa: 11821.1860294
+bigramma: " , CC " 	forza associativa: 10166.5594569
+bigramma: " TO VB " 	forza associativa: 9979.97787195
+bigramma: " MD VB " 	forza associativa: 9773.02510419
+bigramma: " PRP VBP " 	forza associativa: 9379.2272013
+bigramma: " PRP$ NN " 	forza associativa: 6731.92129764
+bigramma: " PRP MD " 	forza associativa: 6721.65077289
+bigramma: " DT JJ " 	forza associativa: 5676.24287891
